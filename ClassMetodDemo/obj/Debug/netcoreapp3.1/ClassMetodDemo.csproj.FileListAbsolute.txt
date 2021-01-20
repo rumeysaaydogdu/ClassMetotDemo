@@ -1,0 +1,13 @@
+C:\Users\DELL\source\repos\ClassMetodDemo\ClassMetodDemo\bin\Debug\netcoreapp3.1\ClassMetodDemo.exe
+C:\Users\DELL\source\repos\ClassMetodDemo\ClassMetodDemo\bin\Debug\netcoreapp3.1\ClassMetodDemo.deps.json
+C:\Users\DELL\source\repos\ClassMetodDemo\ClassMetodDemo\bin\Debug\netcoreapp3.1\ClassMetodDemo.runtimeconfig.json
+C:\Users\DELL\source\repos\ClassMetodDemo\ClassMetodDemo\bin\Debug\netcoreapp3.1\ClassMetodDemo.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\ClassMetodDemo\ClassMetodDemo\bin\Debug\netcoreapp3.1\ClassMetodDemo.dll
+C:\Users\DELL\source\repos\ClassMetodDemo\ClassMetodDemo\bin\Debug\netcoreapp3.1\ClassMetodDemo.pdb
+C:\Users\DELL\source\repos\ClassMetodDemo\ClassMetodDemo\obj\Debug\netcoreapp3.1\ClassMetodDemo.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\ClassMetodDemo\ClassMetodDemo\obj\Debug\netcoreapp3.1\ClassMetodDemo.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\ClassMetodDemo\ClassMetodDemo\obj\Debug\netcoreapp3.1\ClassMetodDemo.AssemblyInfo.cs
+C:\Users\DELL\source\repos\ClassMetodDemo\ClassMetodDemo\obj\Debug\netcoreapp3.1\ClassMetodDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ClassMetodDemo\ClassMetodDemo\obj\Debug\netcoreapp3.1\ClassMetodDemo.dll
+C:\Users\DELL\source\repos\ClassMetodDemo\ClassMetodDemo\obj\Debug\netcoreapp3.1\ClassMetodDemo.pdb
+C:\Users\DELL\source\repos\ClassMetodDemo\ClassMetodDemo\obj\Debug\netcoreapp3.1\ClassMetodDemo.genruntimeconfig.cache
